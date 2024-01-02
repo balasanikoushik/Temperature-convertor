@@ -4,7 +4,8 @@ html{
 
 body{
     margin: 0;
-    background: linear-gradient(320deg, blue,white,blue);
+    background-image: url('./background.jpg');
+    background-size: cover;
     font-family: 'Ubuntu', sans-serif;
     font-size: 12px;
     min-height: 100vh;
